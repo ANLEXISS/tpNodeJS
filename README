@@ -1,0 +1,3 @@
+Les endpoints fonctionnent pour ajouter, supprimer modifier, recuperer et supprimer par id
+J'ai utilise le fichier des routes en mettant les methodes dans un autre fichier pour la clarté du code
+Pour une raison inconnue la methode check() de l'endpoints /health ne fonctionne pas
